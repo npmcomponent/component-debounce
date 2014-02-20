@@ -1,17 +1,9 @@
 {
-  "name": "debounce",
-  "description": "fn debounce",
+  "name": "component-debounce",
+  "description": "Creates and returns a new debounced version of the passed function that will postpone its execution until after wait milliseconds have elapsed since the last time it was invoked",
   "version": "0.0.3",
-  "repository": "git://github.com/component/debounce",
+  "keywords": [],
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {
-    "mocha": "*",
-    "should": "*"
-  },
-  "component": {
-    "scripts": {
-      "debounce/index.js": "index.js"
-    }
-  }
+  "license": "MIT"
 }
